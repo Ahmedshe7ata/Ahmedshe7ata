@@ -21,41 +21,21 @@
 
 ## About Me
 
--  Cloud & DevOps Engineer focused on scalable, automated, and resilient infrastructure
--  Working with **AWS / Azure**, container orchestration, and Infrastructure as Code
--  Passionate about CI/CD pipelines, observability, and reducing manual toil
--  Always exploring new tools in the cloud-native ecosystem
+- 🛠️ Cloud & DevOps Engineer focused on scalable, automated, and resilient infrastructure
+- ☁️ Working with **AWS / Azure**, container orchestration, and Infrastructure as Code
+- 🔁 Passionate about CI/CD pipelines, observability, and reducing manual toil
+- 📈 Always exploring new tools in the cloud-native ecosystem
 
 <br/>
 
-## Tech Stack
+## How I Work
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,python,git,grafana,prometheus,nginx&theme=dark" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="45%"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45%"/>
 
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmedshe7ata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedshe7ata&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedshe7ata&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
-<br/>
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedshe7ata&theme=tokyo-night&hide_border=true" width="95%"/>
+<sub>Design the architecture on paper first, then bring it to life on the laptop.</sub>
 
 </div>
 
