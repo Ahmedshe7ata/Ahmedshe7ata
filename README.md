@@ -1,12 +1,13 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="150" align="center">
+<img src="https://github.com/Ahmedshe7ata.png" width="130" style="border-radius:50%"/>
+</td>
+<td align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmed%20Shehata&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+# Ahmed Shehata
 
-<a href="https://www.linkedin.com/in/ahmedshehatta">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%26+DevOps+Engineering+Enthusiast&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&pause=1000&repeat=true"/>
-</a>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%26+DevOps+Engineering+Enthusiast&font=Fira+Code&width=500&height=40&color=58A6FF&vCenter=true&size=20&pause=1000&repeat=true"/>
 
 <a href="https://www.linkedin.com/in/ahmedshehatta">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,16 +16,29 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
 ## About Me
 
-- 🛠️ Cloud & DevOps Engineer focused on scalable, automated, and resilient infrastructure
-- ☁️ Working with **AWS / Azure**, container orchestration, and Infrastructure as Code
-- 🔁 Passionate about CI/CD pipelines, observability, and reducing manual toil
-- 📈 Always exploring new tools in the cloud-native ecosystem
+- Cloud & DevOps Engineer focused on scalable, automated, and resilient infrastructure
+- Working with **AWS / Azure**, container orchestration, and Infrastructure as Code
+- Passionate about CI/CD pipelines, observability, and reducing manual toil
+- Always exploring new tools in the cloud-native ecosystem
+
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="260"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
