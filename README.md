@@ -7,7 +7,7 @@
 
 # Ahmed Shehata
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%26+DevOps+Engineering+Enthusiast&font=Fira+Code&width=500&height=40&color=58A6FF&vCenter=true&size=20&pause=1000&repeat=true"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%26+DevOps+Engineering+Enthusiastic&font=Fira+Code&width=500&height=40&color=58A6FF&vCenter=true&size=20&pause=1000&repeat=true"/>
 
 <a href="https://www.linkedin.com/in/ahmedshehatta">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
