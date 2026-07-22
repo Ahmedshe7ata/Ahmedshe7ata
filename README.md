@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmed%20Shehata&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ahmedshehatta">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+cloud+infrastructure...;Automating+everything+with+CI%2FCD;Kubernetes+%7C+Docker+%7C+Terraform+%7C+AWS;Always+learning%2C+always+shipping+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%26+DevOps+Engineering+Enthusiast&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&pause=1000&repeat=true"/>
 </a>
 
 <br/>
@@ -28,14 +28,11 @@
 
 <br/>
 
-## How I Work
+## Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="45%"/>
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45%"/>
-
-<sub>Design the architecture on paper first, then bring it to life on the laptop.</sub>
+<img src="https://ghchart.rshah.org/2c5364/Ahmedshe7ata" width="65%"/>
 
 </div>
 
