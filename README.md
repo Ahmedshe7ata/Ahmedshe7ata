@@ -35,7 +35,7 @@
 
 </td>
 <td width="40%" align="center">
-<img src="assets/devops-banner(1).svg" width="320"/>
+<img src="assets/devops-banner (1).svg" width="320"/>
 </td>
 </tr>
 </table>
