@@ -29,7 +29,7 @@
 ## About Me
 
 - Cloud & DevOps Engineer focused on scalable, automated, and resilient infrastructure
-- Working with **AWS / Azure**, container orchestration, and Infrastructure as Code
+- Working with **AWS**, container orchestration, and Infrastructure as Code
 - Passionate about CI/CD pipelines, observability, and reducing manual toil
 - Always exploring new tools in the cloud-native ecosystem
 
