@@ -6,4 +6,4 @@ Cloud & DevOps Engineer focused on scalable, automated, and resilient infrastruc
 Working with AWS / Azure, container orchestration, and Infrastructure as Code
 Passionate about CI/CD pipelines, observability, and reducing manual toil
 Always exploring new tools in the cloud-native ecosystem
-</td> <td width="54%" align="center"> <img src="assets/devops-banner.gif" width="440"/> </td> </tr> </table> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/> </div>
+</td> <td width="54%" align="center"> <img src="assets/devops-banner (1).gif" width="440"/> </td> </tr> </table> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/> </div>
