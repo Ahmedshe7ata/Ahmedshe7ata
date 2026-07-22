@@ -35,20 +35,10 @@
 
 </td>
 <td width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="260"/>
+<img src="assets/devops-banner.svg" width="320"/>
 </td>
 </tr>
 </table>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/2c5364/Ahmedshe7ata" width="65%"/>
-
-</div>
 
 <br/>
 
