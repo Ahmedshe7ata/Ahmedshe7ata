@@ -39,10 +39,11 @@
 
 ## GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmedshe7ata&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9&border_color=0891B2&border_radius=12&hide_border=false"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=Ahmedshe7ata&theme=tokyonight&background=0D1117&stroke=0891B2&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=C9D1D9&border_radius=12&hide_border=false"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedshe7ata&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=0891B2&border_radius=12&hide_border=false&langs_count=8"/>
+<!-- الصور دي بتتولد تلقائيًا كل 24 ساعة من الـ repo الخاص بيك github-stats (self-hosted، مفيش اعتماد على سيرفر خارجي) -->
+<img src="https://github.com/Ahmedshe7ata/github-stats/blob/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://github.com/Ahmedshe7ata/github-stats/blob/generated/languages.svg#gh-dark-mode-only"/>
 
 </div>
 
